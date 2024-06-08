@@ -1,0 +1,14 @@
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\bin\Debug\net8.0\MyConsoleClient.exe
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\bin\Debug\net8.0\MyConsoleClient.deps.json
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\bin\Debug\net8.0\MyConsoleClient.runtimeconfig.json
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\bin\Debug\net8.0\MyConsoleClient.dll
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\bin\Debug\net8.0\MyConsoleClient.pdb
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\obj\Debug\net8.0\MyConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\obj\Debug\net8.0\MyConsoleClient.AssemblyInfoInputs.cache
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\obj\Debug\net8.0\MyConsoleClient.AssemblyInfo.cs
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\obj\Debug\net8.0\MyConsoleClient.csproj.CoreCompileInputs.cache
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\obj\Debug\net8.0\MyConsoleClient.dll
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\obj\Debug\net8.0\refint\MyConsoleClient.dll
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\obj\Debug\net8.0\MyConsoleClient.pdb
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\obj\Debug\net8.0\MyConsoleClient.genruntimeconfig.cache
+C:\dev\repositories\WebServiceCalculator\MyConsoleClient\obj\Debug\net8.0\ref\MyConsoleClient.dll

@@ -1,0 +1,4 @@
+C:\dev\repositories\WebServiceCalculator\ConsoleClient\obj\Debug\net8.0\ConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\repositories\WebServiceCalculator\ConsoleClient\obj\Debug\net8.0\ConsoleClient.AssemblyInfoInputs.cache
+C:\dev\repositories\WebServiceCalculator\ConsoleClient\obj\Debug\net8.0\ConsoleClient.AssemblyInfo.cs
+C:\dev\repositories\WebServiceCalculator\ConsoleClient\obj\Debug\net8.0\ConsoleClient.csproj.CoreCompileInputs.cache

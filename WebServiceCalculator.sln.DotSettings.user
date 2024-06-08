@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e7497c5b_002Dd54d_002D44cc_002Da54d_002D93d69ec0c548/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_ReturnsCorrectResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C4331A9E-6A48-4FE6-9521-5D3DEAFAD6A1::net8.0::WebServiceCalculator.Tests.WebServiceCalculatorTests.Add_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C4331A9E-6A48-4FE6-9521-5D3DEAFAD6A1::net8.0::WebServiceCalculator.Tests.WebServiceCalculatorTests.Subtract_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C4331A9E-6A48-4FE6-9521-5D3DEAFAD6A1::net8.0::WebServiceCalculator.Tests.WebServiceCalculatorTests.Multiply_ReturnsCorrectResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C4331A9E-6A48-4FE6-9521-5D3DEAFAD6A1::net8.0::WebServiceCalculator.Tests.WebServiceCalculatorTests.DivideByZero_ReturnsBadRequest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

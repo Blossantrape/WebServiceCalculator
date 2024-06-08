@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceCalculator", "WebServiceCalculator\WebServiceCalculator.csproj", "{5C9F4E39-3330-4183-BA82-F7F832FDE80F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceCalculator.Tests", "WebServiceCalculator.Tests\WebServiceCalculator.Tests.csproj", "{C4331A9E-6A48-4FE6-9521-5D3DEAFAD6A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsoleClient", "MyConsoleClient\MyConsoleClient.csproj", "{1C959ABB-FD3C-41C2-B05A-8AD71B601414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9F4E39-3330-4183-BA82-F7F832FDE80F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9F4E39-3330-4183-BA82-F7F832FDE80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9F4E39-3330-4183-BA82-F7F832FDE80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9F4E39-3330-4183-BA82-F7F832FDE80F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4331A9E-6A48-4FE6-9521-5D3DEAFAD6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4331A9E-6A48-4FE6-9521-5D3DEAFAD6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4331A9E-6A48-4FE6-9521-5D3DEAFAD6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4331A9E-6A48-4FE6-9521-5D3DEAFAD6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C959ABB-FD3C-41C2-B05A-8AD71B601414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C959ABB-FD3C-41C2-B05A-8AD71B601414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C959ABB-FD3C-41C2-B05A-8AD71B601414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C959ABB-FD3C-41C2-B05A-8AD71B601414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
