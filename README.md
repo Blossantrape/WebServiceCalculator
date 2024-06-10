@@ -1,2 +1,2 @@
 # WebServiceCalculator
- Тестовое.
+1
